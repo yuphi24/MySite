@@ -2,7 +2,7 @@
     {
         "id": 1,
         "date": "2024",
-        "img": "/src/assets/works/2dprofil.jpg",
+        "img": "/src/assets/2dprofil.jpg",
         "name": "2D Profil",
         "tag":["HTML/CSS", "JavaScript", "Vue.js", "GIS", "Research"],
         "description": "Conception and implementation of analysis functions for the web-based exploration of heat flow data"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "date": "2023-11",
-        "img": "/src/assets/works/disasterPreventionPortal.jpg",
+        "img": "/src/assets/disasterPreventionPortal.jpg",
         "name": "Disaster Prevention Portal",
         "tag":["GIS"],
         "description": "Disaster prevention portal site providing information on earthquake damage forecasts, evacuation sites, and areas in need of assistance"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "date": "2023-09",
-        "img": "/src/assets/works/accessibility.jpg",
+        "img": "/src/assets/accessibility.jpg",
         "name": "Accessibility analysis",
         "tag":["GIS", "SQL", "R", "Analysis"],
         "description": "Accessibility analysis in Dresden Löbtau-Süd with GIS"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "date": "2023-08",
-        "img": "/src/assets/works/riskAnalysis.jpg",
+        "img": "/src/assets/riskAnalysis.jpg",
         "name": "Risk analysis",
         "tag":["GIS", "R", "Analysis", "Research"],
         "description": "Heat risk analysis with GIS by district in Dresden"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "date": "2023-03",
-        "img": "/src/assets/works/asp.jpg",
+        "img": "/src/assets/asp.jpg",
         "name": "Project work ASP",
         "tag":["GIS", "Research"],
         "description": "Exploratory study of the perception of effects on ecology due to the control measures against ASF"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "date":"2022-08",
-        "img": "/src/assets/works/goat.jpg",
+        "img": "/src/assets/goat.jpg",
         "name": "Project work GOAT",
         "tag":["Research"],
         "description": "Evaluation of digital tools and visualization of visions and scenarios for climate-neutral mobility"
